@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667582211 source:d:\salma\documents\rahma's documents\iti\courses\programming c\day2\magic box\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
